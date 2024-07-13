@@ -17,8 +17,6 @@ This project involves the development of an AI for the popular 2048 game using t
   - `Makefile.win`: Makefile for building the project on Windows.
   - `mode 2.dev`, `mode 2.layout`, `mode 3.dev`, `mode 3.layout`: Configuration and layout files for different modes.
   - `platdefs.h`: Platform-specific definitions and macros.
-- **docs**: Project documentation, including this README.
-- **experiments**: Data and results from performance evaluations and experiments.
 
 ## Methodologies
 - **Expectimax Optimization**: Used instead of the traditional minimax algorithm to evaluate the best possible moves considering the probabilities of future tile placements.
